@@ -1,5 +1,2 @@
-# hello-world
-test repo
-
-Hello All Developers in the world!
-Let's make the world better by programming things!!!!!
+# Notebooks for Machine Learing & Deep Learning Study
+ This reposity contains of notes for ML/DL study regardless of file format like ipynb, py, excel etc.
