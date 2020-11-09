@@ -1,2 +1,2 @@
-# Notebooks for Machine Learing & Deep Learning Study
- This reposity contains of notes for ML/DL study regardless of file format like ipynb, py, excel etc.
+## Notebooks for ML & DL Study
+ This reposity contains of notes for Meachin Learing / Deep Learning study regardless of file format like ipynb, py, excel etc.
